@@ -21,7 +21,7 @@ App is deployed on Heroku, so log in here to use: https://oversite-dashboard.her
 
 
 ## Technologies
-Oversite was built using React.js, beginning with Black Dashboard by Creative Tim as a base. We utilize express for routing, MongoDB and Mongoose.js for the database configuration, Passport.js and bcrypt.js for authentication, Chart.js for data visualition, Node-Cron.sj and NodeMailer for consequence emails, and Bootstrap for styling. 
+Oversite was built using React.js, beginning with Black Dashboard by Creative Tim as a base. We utilize express for routing, MongoDB and Mongoose.js for the database configuration, Passport.js and bcrypt.js for authentication, Chart.js for data visualition, Node-Cron.js and NodeMailer for consequence emails, and Bootstrap for styling. 
 
 
 ## Usage
